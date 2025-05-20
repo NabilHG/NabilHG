@@ -64,7 +64,6 @@ I also have a strong vocation for teaching, having worked as a private math tuto
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilHG&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-right: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NabilHG&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
 </p>
 
 
